@@ -37,6 +37,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-<!-- Comment -->
-Single-Line Comments: Start with // and extend to the end of the line. Multi-Line Comments: Start with /* and end with */. Documentation Comments: Start with /** and end with */.
