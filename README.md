@@ -1,8 +1,7 @@
 
-##** Backend JavaScript runtime and npm
+## JavaScript runtime and npm
 ```
-- nodejs install
-- https://cli.vuejs.org/guide/deployment.html
+nodejs install
 ```
 
 ## Project setup
@@ -10,7 +9,7 @@
 npm install
 ```
 
-##** Frontend ##vueClient
+##vueClient
 ```
 npm install -g @vue/cli
 ```
